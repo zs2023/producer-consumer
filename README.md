@@ -1,6 +1,6 @@
 # producer-consumer code challenge
 
-## The code is to complete the following task:
+## The code is to complete the following tasks:
 
 You should be able to make reasonable assumptions if some of the requirements are not precise enough and we will be able to discuss them during the discussion. 
 If you do not have any parts of the requirements implemented, please, provide your design thoughts. If you do not have them yet, please, let us know as well. 
